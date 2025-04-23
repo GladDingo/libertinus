@@ -6,6 +6,12 @@
 
 ![Sample of Libertinus Font Faces](preview.svg)
 
+## UPDATE
+
+Added new weights, plus brand-new titling versions. This fork is a variable font.
+
+## Libertinus Fonts
+
 The Libertinus Fonts project includes four main type families:
 
 * The **Libertinus Serif** family:
